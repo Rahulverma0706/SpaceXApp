@@ -38,9 +38,10 @@ eas build -p android
 Once the build is complete, download the APK from the provided Expo link and install it on your Android device.
 
 ## 📸 Screenshots 
-![WhatsApp Image 2025-03-06 at 12 19 43 AM](https://github.com/user-attachments/assets/6372bb4b-d747-45f7-b9fa-63b06a25934b)
-
-![WhatsApp Image 2025-03-06 at 12 19 42 AM](https://github.com/user-attachments/assets/65390643-edf5-4558-a4c5-e30a36ce2cc9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6372bb4b-d747-45f7-b9fa-63b06a25934b" alt="Screenshot 1" width="48%">
+  <img src="https://github.com/user-attachments/assets/65390643-edf5-4558-a4c5-e30a36ce2cc9" alt="Screenshot 2" width="48%">
+</p>
 
 
 ## 🛠 Technologies Used
